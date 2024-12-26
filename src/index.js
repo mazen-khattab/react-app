@@ -26,7 +26,7 @@ const router = createBrowserRouter([
   },
 
   {
-    path: "/javascript",
+    path: "/javascript", 
     element: <JS></JS>,
   },
 ]);
